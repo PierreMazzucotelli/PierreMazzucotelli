@@ -17,8 +17,25 @@ Here's a glimpse of the tools and technologies I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50" />
 </div>
 
+---
 
 ### 🌟 Let's Connect!
 
-- 🌐 [https://www.linkedin.com/in/pierre-mazzucotelli-511b22284/](#)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/pierre-mazzucotelli-511b22284/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
+  </a>
+</div>
 
+---
+
+### 📊 GitHub Activities
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+Thank you for visiting my profile! 😊 Feel free to explore my repositories.
