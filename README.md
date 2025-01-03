@@ -32,8 +32,8 @@ Here's a glimpse of the tools and technologies I work with:
 ### 📊 GitHub Activities
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PierreMazzucotelli&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreMazzucotelli&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
